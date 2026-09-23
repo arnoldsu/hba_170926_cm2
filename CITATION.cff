@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it as below."
+
+title: "HBA-CM2: Offline Ocean Heat-Budget Analysis for ACCESS-CM2"
+type: software
+
+authors:
+  - family-names: "Sullivan"
+    given-names: "Arnold"
+    orcid: "https://orcid.org/0000-0002-5712-6195"
+
+version: 1.0.0
+date-released: 2026-09-23
+
+repository-code: "https://github.com/arnoldsu/hba_170926_cm2"
+
+keywords:
+  - ocean heat budget
+  - heat-budget analysis
+  - ACCESS-CM2
+  - ENSO
+  - ocean advection
+  - surface heat flux
+  - upper ocean
+  - climate model
+  - offline diagnostics
+
+abstract: >-
+  HBA-CM2 provides an offline upper-ocean heat-budget analysis workflow
+  using archived ACCESS-CM2 ocean and surface-flux fields. The workflow
+  diagnoses upper-ocean temperature tendency and contributions from zonal,
+  meridional, and vertical ocean advection and surface heat flux, with
+  applications to ENSO and equatorial Pacific temperature variability.
+
+license: "MIT"
