@@ -1,4 +1,4 @@
-# HBA-CM2: ACCESS-CM2 Mixed-Layer Heat Budget and Monthly Advection Decomposition
+# HBA-CM2: ACCESS-CM2 Mixed-Layer Heat Budget and Monthly Advection Decomposition (MOM direct output)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22908822.svg)](https://doi.org/10.5281/zenodo.22908822)
 
