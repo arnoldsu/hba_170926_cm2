@@ -754,7 +754,7 @@ If you use this software or methodology in your research, please cite the
 archived release:
 
 **Sullivan, Arnold. (2026).  
-JK-CM2: ACCESS-CM2 Mixed-Layer Heat Budget and Monthly Advection Decomposition
+JK-HeatBudget-CM2: ACCESS-CM2 Mixed-Layer Heat Budget and Monthly Advection Decomposition
 (v1.0.0). Zenodo.**
 
 **DOI:** [10.5281/zenodo.22908822](https://doi.org/10.5281/zenodo.22908822)
@@ -764,7 +764,7 @@ JK-CM2: ACCESS-CM2 Mixed-Layer Heat Budget and Monthly Advection Decomposition
 ```bibtex
 @software{Sullivan_2026_HBA_CM2,
   author    = {Sullivan, Arnold},
-  title     = {JK-CM2: ACCESS-CM2 Mixed-Layer Heat Budget and Monthly Advection Decomposition},
+  title     = {JK-HeatBudget-CM2: ACCESS-CM2 Mixed-Layer Heat Budget and Monthly Advection Decomposition},
   year      = {2026},
   version   = {1.0.0},
   publisher = {Zenodo},
